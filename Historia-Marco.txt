@@ -5,3 +5,6 @@ marco tiene 25 a~os y nacio en Venezuela
 ahora vive en Utah.
 
 manana nos enfocaremos en su trabajo.
+
+trabaja, entrena y va a ser un software developer.
+pre-millonario.
