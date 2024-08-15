@@ -42,3 +42,10 @@ img{
     padding:1em;
     background-color: white;
 }
+
+#footer{
+    background-color: #666464;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
